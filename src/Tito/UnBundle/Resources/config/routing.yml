@@ -1,0 +1,3 @@
+tito_un_homepage:
+    path:     /
+    defaults: { _controller: TitoUnBundle:Default:index }

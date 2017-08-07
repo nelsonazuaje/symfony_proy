@@ -1,0 +1,4 @@
+services:
+#    tito_un.example:
+#        class: Tito\UnBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
